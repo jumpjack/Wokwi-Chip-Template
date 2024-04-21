@@ -1,4 +1,4 @@
-// Generic Chip v1.0.0
+// generic Chip v1.0.0 by Jumpjack
 // https://docs.wokwi.com/chips-api/getting-started
 //
 // SPDX-License-Identifier: MIT
