@@ -1,28 +1,11 @@
 {
   "name": "generic",
-  "author": "Jumpjack",
-  "license": "MIT",
-  "docs": "https://github.com/jumpjack/Wokwi-custom-chip-template",
+  "author": "jumpjack2",
   "pins": [
-    "D0",
-    "D1",
-    "D2",
-    "A2",
-    "A1",
-    "A0"
+    "VCC",
+    "GND",
+    "IN",
+    "OUT"
   ],
-  "display": {
-    "width": 252,
-    "height": 168
-  },
-  "controls": [
-    {
-      "id": "mySlider",
-      "label": "This is a slider (range)",
-      "type": "range",
-      "min": 0,
-      "max": 400,
-      "step": 10
-    }
-  ]
+  "controls": []
 }
