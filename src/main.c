@@ -1,4 +1,4 @@
-// Wokwi Custom Chip - For docs and examples see:
+// Generic Chip v1.0.0
 // https://docs.wokwi.com/chips-api/getting-started
 //
 // SPDX-License-Identifier: MIT
