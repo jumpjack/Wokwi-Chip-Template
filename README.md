@@ -4,6 +4,7 @@ Example chips:
 - [Inverter](https://github.com/wokwi/inverter-chip/blob/3f3c2398313c91552dd2ed51099a085b8453c09f/docs/README.md)
 - [PWM](https://github.com/Dlloydev/Wokwi-Chip-PWM)
 - [Oscilloscope](https://github.com/Dlloydev/Wokwi-Chip-Scope)
+- [st7735](https://github.com/martysweet/st7735-wokwi-chip)
 
 ----------
 
