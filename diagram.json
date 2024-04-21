@@ -4,7 +4,7 @@
   "editor": "wokwi",
   "parts": [
     {
-      "type": "chip-generic",
+      "type": "chip-template",
       "id": "myGenericChip",
       "top": -564.74,
       "left": 43.2,
@@ -20,5 +20,5 @@
     [ "ldr1:DO", "scope1:D2", "green", [ "h28.8", "v-48.6" ] ],
     [ "myGenericChip:D1", "myGenericChip:D0", "green", [ "h-38.4", "v-48", "h441.6", "v-9.6" ] ]
   ],
-  "dependencies": { "chip-scope": "github:jumpjack/Wokwi-Chip-Scope@1.0.7" }
+  "dependencies": { "chip-scope": "github:jumpjack/Wokwi-chip-template@1.0.0" }
 }
