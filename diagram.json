@@ -5,7 +5,7 @@
   "parts": [
     {
       "type": "chip-template",
-      "id": "myGenericChip",
+      "id": "template",
       "top": -564.74,
       "left": 43.2,
       "attrs": {
@@ -20,5 +20,5 @@
     [ "ldr1:DO", "scope1:D2", "green", [ "h28.8", "v-48.6" ] ],
     [ "myGenericChip:D1", "myGenericChip:D0", "green", [ "h-38.4", "v-48", "h441.6", "v-9.6" ] ]
   ],
-  "dependencies": { "chip-template": "github:jumpjack/Wokwi-chip-template@1.0.0" }
+  "dependencies": { "chip-template": "github:jumpjack/Wokwi-Chip-Template@1.0.0" }
 }
